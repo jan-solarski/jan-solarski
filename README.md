@@ -27,7 +27,7 @@ I describe myself as a passionate developer who always been fascinated by new te
 
 Aside from coding, I have been involved in music production, sound engineering, audio for games, and 3D sound.
 
-In my free time you can find me in the studio 🎹, or on tech meetups and conferences in London 🗺
+In my free time you can find me in the studio 🎹, or on tech meetups and conferences in London 💻
 
 <br>
 
