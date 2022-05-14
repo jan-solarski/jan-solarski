@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jan Solarski</h1>
+<h3 align="center">A passionate frontend student from Poland</h3>
 
-<!--
-**jan-solarski/jan-solarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷‍♂️ I’m currently working on learning JavaScript & React!
 
-Here are some ideas to get you started:
+👨‍🎓 Roadmap:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ~~HTML~~ | ~~CSS~~ | **JS**👈 | React | TypeScript | ThreeJS | 
+
+💻 All of my projects are available in [my portfolio](https://jansolarski.com)
+
+📧 How to reach me: jan.solarski@gmail.com
+
+## My values
+
+:open_hands: **Teamwork** makes everyone stronger <br/>
+
+:key: Good **communication** is essential <br/>
+
+:hearts: I'm eager to **learn** something new <br/>
+
+## About me
+
+I describe myself as a passionate developer who always been fascinated by new technologies and the web ❤️.
+
+**Student of Point Blank Music School in London.** 
+
+Aside from coding, I have been involved in music production, sound engineering, audio for games, and 3D sound.
+
+In my free time you can find me in the studio 🎹, or on tech meetups and conferences in London 🗺
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-solarski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
