@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jan Solarski</h1>
-<h3 align="center">A passionate frontend student from Poland</h3>
+<h3 align="center">A passionate Web Development student from Poland</h3>
 
-👷‍♂️ I’m currently working on learning JavaScript & React!
+👷‍♂️ I’m currently working on learning JavaScript & PHP!
 
 👨‍🎓 Roadmap:
 
-| ~~HTML~~ | ~~CSS~~ | **JS**👈 | React | TypeScript | ThreeJS | 
+| ~~HTML~~ | ~~CSS~~ | ~~JavaScript~~ | **PHP**👈 | MySQL | 
 
 💻 All of my projects are available in [my portfolio](https://jansolarski.com)
 
@@ -23,7 +23,7 @@
 
 I describe myself as a passionate developer who always been fascinated by new technologies and the web ❤️.
 
-**Student of Point Blank Music School in London.** 
+Student of Point Blank Music School in London. 
 
 Aside from coding, I have been involved in music production, sound engineering, audio for games, and 3D sound.
 
